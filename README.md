@@ -7,7 +7,7 @@
 
 ### Hola, soy Raúl Fisher — fundador de **FishWare** 👋
 
-Startup de **Poza Rica, Veracruz** 🇲🇽 que crea sistemas de gestión para negocios mexicanos de verdad:<br>
+Startup mexicana 🇲🇽 que crea software para negocios de verdad:<br>
 los que cobran en efectivo, tienen el internet que a veces se cae y necesitan que alguien les conteste.
 
 ![Poza Rica](https://img.shields.io/badge/Poza%20Rica-Veracruz-2563eb?style=flat-square&logo=googlemaps&logoColor=white)
@@ -29,6 +29,12 @@ los que cobran en efectivo, tienen el internet que a veces se cae y necesitan qu
       <br clear="left"><br>
       Un mismo sistema que se adapta al giro: cafetería, restaurante, carnicería, ferretería, papelería, taller, consultorio dental o venta en línea. Caja, inventario, pedidos, mesas, citas y reparaciones.
     </td>
+    <td width="50%" valign="top">
+      <b>🧩 Software a la medida</b><br>
+      <sub>Para lo que todavía no existe</sub>
+      <br><br>
+      Sistemas de gestión, aplicaciones web y móviles, tiendas en línea y páginas para negocios. Con la misma forma de trabajar que nuestros productos: pruebas, seguridad y trato directo con quien lo construyó.
+    </td>
   </tr>
 </table>
 
@@ -37,7 +43,7 @@ los que cobran en efectivo, tienen el internet que a veces se cae y necesitan qu
 <br>
 
 - **Varios negocios en una sola base, cada quien con lo suyo:** el aislamiento lo impone PostgreSQL (Row Level Security), no solo el código.
-- **Tiempo real** con Server-Sent Events: el tablero de mesas y el soporte se actualizan solos en todas las pantallas.
+- **Tiempo real** con Server-Sent Events: el soporte y los avisos se actualizan solos en todas las pantallas.
 - **Nada de cobrar dos veces:** las operaciones de dinero bloquean la fila (`SELECT … FOR UPDATE`) y tienen pruebas de concurrencia.
 - **Cientos de pruebas automáticas** contra la base real con Vitest.
 - **Seguridad:** contraseñas con scrypt, sesiones opacas, freno de intentos de inicio de sesión, rotación de tokens con detección de robo.
@@ -86,5 +92,5 @@ los que cobran en efectivo, tienen el internet que a veces se cae y necesitan qu
 ---
 
 <div align="center">
-<sub>¿Tienes un negocio en Veracruz y quieres ordenarlo? Escríbeme a <b>fisherware2026@gmail.com</b>.</sub>
+<sub>¿Tienes un negocio y quieres ordenarlo? Escríbeme a <b>fisherware2026@gmail.com</b>.</sub>
 </div>
