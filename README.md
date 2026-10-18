@@ -23,13 +23,6 @@ los que cobran en efectivo, tienen el internet que a veces se cae y necesitan qu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/tacazo.png" alt="Tacazo" width="56" align="left">
-      <b>Tacazo</b><br>
-      <sub>Sistema para billares</sub>
-      <br clear="left"><br>
-      Mesas en vivo con su tiempo e importe corriendo, la cuenta de tiempo + bar en un solo lugar, caja con corte a ciegas, inventario que descuenta solo, ley seca y reportes por jornada. Web y app móvil.
-    </td>
-    <td width="50%" valign="top">
       <img src="assets/comercia.png" alt="Comercia" width="56" align="left">
       <b>Comercia</b><br>
       <sub>Punto de venta e inventario para comercios</sub>
