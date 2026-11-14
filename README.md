@@ -11,7 +11,7 @@ Startup mexicana 🇲🇽 que crea software para negocios de verdad:<br>
 los que cobran en efectivo, tienen el internet que a veces se cae y necesitan que alguien les conteste.
 
 ![Poza Rica](https://img.shields.io/badge/Poza%20Rica-Veracruz-2563eb?style=flat-square&logo=googlemaps&logoColor=white)
-![Startup](https://img.shields.io/badge/FishWare-startup-0b1033?style=flat-square)
+[![Sitio](https://img.shields.io/badge/fishware.mx-0b1033?style=flat-square&logo=googlechrome&logoColor=white)](https://fishware.mx)
 ![Correo](https://img.shields.io/badge/fisherware2026%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)
 
 </div>
@@ -23,9 +23,9 @@ los que cobran en efectivo, tienen el internet que a veces se cae y necesitan qu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/comercia.png" alt="Comercia" width="56" align="left">
-      <b>Comercia</b><br>
-      <sub>Punto de venta e inventario para comercios</sub>
+      <img src="assets/mercadia.png" alt="Mercadia" width="56" align="left">
+      <b><a href="https://mercadia.mx">Mercadia</a></b><br>
+      <sub>Punto de venta e inventario para comercios · <a href="https://mercadia.mx">mercadia.mx</a></sub>
       <br clear="left"><br>
       Un mismo sistema que se adapta al giro: cafetería, restaurante, carnicería, ferretería, papelería, taller, consultorio dental o venta en línea. Caja, inventario, pedidos, mesas, citas y reparaciones.
     </td>
@@ -73,21 +73,6 @@ los que cobran en efectivo, tienen el internet que a veces se cae y necesitan qu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## 📊 Actividad
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=boolt16&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&locale=es">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=boolt16&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb&locale=es" alt="Estadísticas de GitHub">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=boolt16&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&stroke=30363D&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&locale=es">
-  <img height="165" src="https://streak-stats.demolab.com?user=boolt16&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&locale=es" alt="Racha de contribuciones">
-</picture>
-
-</div>
 
 ---
 
