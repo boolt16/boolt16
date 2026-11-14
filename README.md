@@ -1,4 +1,4 @@
-<a href="https://fishware.mx"><img src="assets/banner.svg" alt="FishWare, startup mexicana que crea software para negocios" width="100%"></a>
+<a href="https://fishware.mx"><img src="assets/banner-fishware.svg" alt="FishWare, startup mexicana que crea software para negocios" width="100%"></a>
 
 <div align="center">
 
