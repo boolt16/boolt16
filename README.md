@@ -1,4 +1,4 @@
-<a href="https://fishware.mx"><img src="assets/banner.svg" alt="FishWare — Software para negocios de verdad" width="100%"></a>
+<a href="https://fishware.mx"><img src="assets/banner.svg" alt="FishWare, startup mexicana que crea software para negocios" width="100%"></a>
 
 <div align="center">
 
@@ -10,13 +10,15 @@
 
 ### Hola, soy Raúl 👋
 
-Fundé **FishWare** en Poza Rica, Veracruz. Hacemos software para los negocios que el software de siempre olvida:
-los que cobran en efectivo, tienen el internet que a veces se cae y necesitan que alguien les conteste.
+Soy fundador de **FishWare**, una startup mexicana de Poza Rica, Veracruz, que crea software para los negocios
+que el software de siempre olvida: los que cobran en efectivo, tienen el internet que a veces se cae y necesitan que alguien les conteste.
+
+En FishWare tenemos **productos propios**, como Mercadia, y también hacemos **software a la medida** para otros negocios.
 Lo diseñamos, lo programamos, lo ponemos en marcha y le damos soporte nosotros mismos.
 
 <br>
 
-## 🛒 Mercadia
+## 🛒 Mercadia · producto de FishWare
 
 <a href="https://mercadia.mx"><img src="assets/mercadia-escaparate.png" alt="Mercadia: un sistema, cualquier giro" width="100%"></a>
 
@@ -39,14 +41,14 @@ mesas y comandas para la cafetería, lotes y merma para la carnicería, citas y 
 
 <br>
 
-## 🧩 Software a la medida
+## 🧩 Software a la medida · servicio de FishWare
 
-¿Lo que necesitas todavía no existe? Lo construimos: **sistemas de gestión, apps web y móviles, tiendas en línea y páginas para negocios**,
+¿Lo que tu negocio necesita todavía no existe? En FishWare lo construimos: **sistemas de gestión, apps web y móviles, tiendas en línea y páginas para negocios**,
 con la misma forma de trabajar que nuestros productos: pruebas automáticas, seguridad desde el principio y trato directo con quien lo programó.
 
 <br>
 
-## ⚙️ Cómo están hechos por dentro
+## ⚙️ Cómo construimos en FishWare
 
 <table>
 <tr>
